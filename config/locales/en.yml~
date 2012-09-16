@@ -7,4 +7,4 @@ en:
       user:
         password_digest: "Password"
   
- 
+  hello: "Hello world"
